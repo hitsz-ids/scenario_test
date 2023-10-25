@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<scenarios>
+    <scenario name="VehiclesCrossFront_1" type="VehiclesCrossFront" town="Town03">
+        <ego_vehicle x="60" y="128.1" z="1" yaw="178" model="vehicle.lincoln.mkz_2017" />
+        <other_actor x="6" y="90" z="1" yaw="90" model="vehicle.tesla.model3" />
+        <other_actor x="-6" y="145" z="1" yaw="-90" model="vehicle.diamondback.century" />
+        <weather cloudiness="0" precipitation="0" precipitation_deposits="0" wind_intensity="0" sun_azimuth_angle="0" sun_altitude_angle="75" />
+    </scenario>
+</scenarios>
